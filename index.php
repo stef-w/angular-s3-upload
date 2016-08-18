@@ -83,7 +83,7 @@
             secret_key: 'ask stef!',
             bucket: 'stefw-angular-upload'
         };
-        tPZZGFjvl29SYohys9P9rYXWV7sD99NeNxzs7g9V
+        
 
         $scope.region = 'eu-west-1';
 
